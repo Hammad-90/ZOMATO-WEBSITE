@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    background-color: red;
+    box-shadow: 8px 8px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.one h2 {
+    color: rgb(223, 11, 46);
+    border-radius: 8px 9px;
+}
+.two h2 {
+    color: rgb(223, 11, 46);
+}
+.three h2 {
+    color: rgb(223, 11, 46);
+}
+
+
+
